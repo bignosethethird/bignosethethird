@@ -1,5 +1,8 @@
 ## Hi, I'm Gerrit - aka bignosethethird
 
+[<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="gerrithoekstra"><a class="LI-simple-link" href='https://uk.linkedin.com/in/gerrithoekstra?trk=profile-badge'>Gerrit Hoekstra</a></div>]
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://hoekstra.co.uk)
